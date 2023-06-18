@@ -1,0 +1,6 @@
+__pycache__/
+files
+venv
+.pytest_cache
+.idea
+config.py
